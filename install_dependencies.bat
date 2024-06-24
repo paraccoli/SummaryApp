@@ -1,6 +1,5 @@
 @echo off
 echo Installing dependencies for the Document Summarization App...
-echo Document Summarization App の依存関係をインストールしています...
 
 REM Upgrade pip
 python -m pip install --upgrade pip
