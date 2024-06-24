@@ -23,17 +23,13 @@
 ```
 git clone https://github.com/xM1guel/SummaryApp.git
 ```
-2. 必要なライブラリをインストールします。
-```
-pip install spacy networkx scikit-learn docx2txt PyPDF2
-```
-3. spaCyの言語モデルをダウンロードします
-```
-python -m spacy download ja_core_news_sm
-python -m spacy download en_core_web_sm
-```
+2. `setup_and_run.bat` をダブルクリックして実行します。
+3. セットアッププロセスが完了すると、アプリケーションが自動的に起動します。
 
 ## 注意事項
+- このスクリプトを実行するには、Pythonがシステムにインストールされ、PATHに追加されている必要があります。
+- 初回実行時には時間がかかる場合があります。
+- セットアッププロセス中にWindows SmartScreenの警告が表示される場合があります。その場合は「詳細情報」をクリックし、「実行」を選択してください。
 
 - 大きなファイルの処理には時間がかかる場合があります。
 - 言語モデルの精度により、要約の質が変わる可能性があります。
