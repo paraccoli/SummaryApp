@@ -20,15 +20,11 @@
  
 ## 言語モデルの設定
 事前に使用する言語モデルをダウンロードしてください。
-- 英語モデル
-```
-https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.1.0/es_core_news_lg-3.1.0.tar.gz
-```
+- [英語モデル](
+https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.1.0/es_core_news_lg-3.1.0.tar.gz)
 
-- 日本語モデル
-```
-https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.7.0/ja_core_news_sm-3.7.0.tar.gz
-```
+- [日本語モデル](https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.7.0/ja_core_news_sm-3.7.0.tar.gz
+)
 
 ## インストール
 1. このリポジトリをクローンまたはダウンロードします。
