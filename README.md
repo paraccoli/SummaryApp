@@ -30,7 +30,7 @@ https://github.com/explosion/spacy-models/releases/download/es_core_news_lg-3.1.
 ## インストール
 1. このリポジトリをクローンまたはダウンロードします。
 ```
-git clone https://github.com/xM1guel/SummaryApp.git
+git clone https://github.com/paraccoli/SummaryApp.git
 ```
 2. `setup_and_run.bat` をダブルクリックして実行します。
 3. セットアッププロセスが完了すると、アプリケーションが自動的に起動します。
