@@ -44,5 +44,5 @@ git clone https://github.com/paraccoli/SummaryApp.git
 - 言語モデルの精度により、要約の質が変わる可能性があります。
 
 ## 作成者
-- xM1guel
+- パラッコリー(ID：Paraccoli)
 - [Zenn](https://zenn.dev/miguel)
